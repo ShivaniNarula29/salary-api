@@ -11,4 +11,3 @@ public class SalaryApplicationTests {
     public void contextLoads() {
     }
 }
-}
